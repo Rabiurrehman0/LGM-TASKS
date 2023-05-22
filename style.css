@@ -1,0 +1,58 @@
+html {
+  font-size: 15px;
+}
+
+body {
+  background-image: url(./istockphoto-1367452615-170667a.jpg);
+  
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+.card {
+  background-color:black;
+}
+.card-body,
+ul {
+  background-color:palevioletred;
+  min-height: 0px;
+}
+.form-control {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.list-item {
+  color: black;
+}
+.list-group-item {
+  background-color: inherit;
+  border: none;
+}
+.under-list-item {
+  font-size: 0.9rem;
+}
+.under-list-item .list-group-item {
+  color: whitesmoke;
+}
+
+.under-list-input input {
+  height: calc(1em + 0.75rem);
+}
+
+.line-throught {
+  text-decoration: line-through;
+}
+  .btn-outline-danger {
+    font-size: 0.9rem;
+  }
+
+
